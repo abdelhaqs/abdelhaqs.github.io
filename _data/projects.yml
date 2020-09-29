@@ -1,7 +1,7 @@
 - layout: top-middle
   name: Flask-Sentiment-Analyzer
   link: github.com/abdelhaqs
-  github: sproogen/Flask-Sentiment-Analyzer
+  github: abdelhaqs/Flask-Sentiment-Analyzer
   quote: >
     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
